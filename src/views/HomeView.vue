@@ -2,7 +2,6 @@
 import Hero from "@/components/layouts/HomeComponents/Hero.vue";
 import Categories from "@/components/layouts/HomeComponents/Categories.vue";
 import NewItem from "@/components/layouts/HomeComponents/NewItem.vue";
-
 </script>
 
 <template>

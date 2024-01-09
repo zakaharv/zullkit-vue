@@ -2,6 +2,7 @@
 import Logo from "./Logo.vue";
 import NavigationLink from "@/components/layouts/NavbarComponents/NavigationLink.vue";
 import UserAction from "./UserAction.vue";
+import AuthAction from "./AuthAction.vue";
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import UserAction from "./UserAction.vue";
       <Logo />
       <NavigationLink />
       <UserAction />
+      <!-- <AuthAction /> -->
     </div>
   </nav>
 </template>
